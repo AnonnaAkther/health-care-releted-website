@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Abdomen Xray Report",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus iusto cumque quasi aliquid expedita officia ipsam, dolorum vero voluptatibus quibusdam nulla omnis. Ratione doloribus veritatis fuga illo mollitia aperiam nihil.",
+        "img":"https://i.ibb.co/XxyJhjc/services1-jpg.webp"
+        },
+        {
+            "id":2,
+            "name":"Xray Report",
+            "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus iusto cumque quasi aliquid expedita officia ipsam, dolorum vero voluptatibus quibusdam nulla omnis. Ratione doloribus veritatis fuga illo mollitia aperiam nihil.",
+            "img":"https://i.ibb.co/BVMRxs3/services2-jpg.webp"
+            },
+            {
+                "id":3,
+                "name":"City Scan",
+                "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus iusto cumque quasi aliquid expedita officia ipsam, dolorum vero voluptatibus quibusdam nulla omnis. Ratione doloribus veritatis fuga illo mollitia aperiam nihil.",
+                "img":"https://i.ibb.co/c6dQC1C/services3-jpg.webp"
+                },
+                {
+                    "id":4,
+                    "name":"Patient Treatment",
+                    "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus iusto cumque quasi aliquid expedita officia ipsam, dolorum vero voluptatibus quibusdam nulla omnis. Ratione doloribus veritatis fuga illo mollitia aperiam nihil.",
+                    "img":"https://i.ibb.co/0rH3tm6/services4-jpg.webp"
+                    },
+                    {
+                        "id":5,
+                        "name":"Examining-The-Medical-X-ray",
+                        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus iusto cumque quasi aliquid expedita officia ipsam, dolorum vero voluptatibus quibusdam nulla omnis. Ratione doloribus veritatis fuga illo mollitia aperiam nihil.",
+                        "img":"https://i.ibb.co/Q9zMFrM/Doctors-examining-the-medical-x-ray.jpg"
+                        },
+                            {
+                                "id":7,
+                                "name":"High Pressar Treatment",
+                                "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus iusto cumque quasi aliquid expedita officia ipsam, dolorum vero voluptatibus quibusdam nulla omnis. Ratione doloribus veritatis fuga illo mollitia aperiam nihil.",
+                                "img":"https://i.ibb.co/CHs5mqB/services7-png.webp"
+                            }
+]
