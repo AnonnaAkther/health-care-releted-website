@@ -43,7 +43,7 @@ const doctors = [
 
 const SpecialDoctors = () => {
     return (
-        <div>
+        <div id="doctors">
             <h2 className="text-warning">Our Special Doctors</h2>
             <div>
                 {
